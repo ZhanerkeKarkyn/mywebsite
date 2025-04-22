@@ -1,0 +1,7 @@
+.banner {
+  padding: 50px 20px;
+  background-image: url('smartrobot.jpg');
+  background-size: cover;
+ height:100vh;
+ background-position: center;
+ }
